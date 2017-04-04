@@ -3,7 +3,7 @@
 Voici une modeste (et je l'espère correcte) réponse au test *Java* de **Inch**.
 
 Le test a été téléchargé depuis [ce GIST](https://gist.github.com/Uelb/1ad5ac1fea71351c83d4be6c3d86f072).
-L'énoncé du test est contenu dans le fichier `README_original.md` dans ce même répertoire.
+L'énoncé du test est contenu dans le fichier `README_test.md` dans ce même répertoire.
 
 ## Remarque sur la durée d'un créneau horaire
 
@@ -13,7 +13,7 @@ L'énoncé de **Inch** ne précise pas la durée d'un créneau horaire ( *window
 
 ### Prérequis
 
-Mon projet nécessite [Maven](maven.apache.org) pour être construit.
+Mon projet nécessite [Maven](https://maven.apache.org/) pour être construit.
 
 ### Commande
 
