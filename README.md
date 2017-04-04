@@ -2,7 +2,7 @@
 
 Voici une modeste (et je l'espère correcte) réponse au test *Java* de **Inch**.
 
-Le test a été téléchargé depuis [ce GIST|https://gist.github.com/Uelb/1ad5ac1fea71351c83d4be6c3d86f072].
+Le test a été téléchargé depuis [ce GIST](https://gist.github.com/Uelb/1ad5ac1fea71351c83d4be6c3d86f072).
 L'énoncé du test est contenu dans le fichier `README_original.md` dans ce même répertoire.
 
 ## Remarque sur la durée d'un créneau horaire
@@ -13,7 +13,7 @@ L'énoncé de **Inch** ne précise pas la durée d'un créneau horaire ( *window
 
 ### Prérequis
 
-Mon projet nécessite [Maven|maven.apache.org] pour être construit.
+Mon projet nécessite [Maven](maven.apache.org) pour être construit.
 
 ### Commande
 
@@ -26,7 +26,7 @@ La commande pour construire le programme est `mvn install`. Elle :
 
 ### Test unitaires
 
-Un test unitaire présent dans le fichier `Content.java` consiste à vérifier le cas de l'[exemple indiqué dans l'énoncé du problème|https://gist.github.com/Uelb/1ad5ac1fea71351c83d4be6c3d86f072#file-content-java].
+Un test unitaire présent dans le fichier `Content.java` consiste à vérifier le cas de l'[exemple indiqué dans l'énoncé du problème](https://gist.github.com/Uelb/1ad5ac1fea71351c83d4be6c3d86f072#file-content-java).
 
 Il existe de plus d'autres tests pour vérifier la qualité du programme.
 
